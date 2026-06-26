@@ -33,9 +33,9 @@ consolidated financial statements (Laporan Keuangan Konsolidasian
 
 | Deliverable | Description | Link |
 |---|---|---|
-| FP&A Report (PDF) | 7-page report covering revenue, expense, cash flow analysis, FY2026 forecast, risks & limitations | [View PDF](report/GoTo_FY2025_FPA_Report.pdf) |
-| Financial Model (Excel) | 10-tab model: IS, BS, CF, RATIOS, SEGMENT, KPI, ASSUMPTIONS, FLAGS, FY2026 3-scenario forecast | [Download Model](model/GoTo_Financial_Analysis_Model_Final.xlsx) |
-| Executive Dashboard (Tableau) | Interactive dashboard — Revenue Growth Story, BEP, KPI Strip, FY2026 Scenario Outlook | [View on Tableau Public](LINK_TABLEAU_KAMU) |
+| FP&A Report (PDF) | 7-page report covering revenue, expense, cash flow analysis, FY2026 forecast, risks & limitations | [View PDF](Report/GoTo-FY2025-Analysis.pdf) |
+| Financial Model (Excel) | 10-tab model: IS, BS, CF, RATIOS, SEGMENT, KPI, ASSUMPTIONS, FLAGS, FY2026 3-scenario forecast | [Download Model](Model/GOTO_Financial_Analysis_Model_Final.xlsx) |
+| Executive Dashboard (Tableau) | Interactive dashboard — Revenue Growth Story, BEP, KPI Strip, FY2026 Scenario Outlook | [View on Tableau Public](https://public.tableau.com/views/GOTOFY2025ANALYSIS/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
 
 ---
 
