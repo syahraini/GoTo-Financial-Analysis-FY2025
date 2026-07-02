@@ -1,4 +1,5 @@
-<img width="1099" height="757" alt="GoTo Analysis FY2025   FY2026 Outlook - SS" src="https://github.com/user-attachments/assets/cc1fc03d-07a7-40fb-8511-7af2d0bd33cc" />
+<img width="1099" height="785" alt="GoTo Analysis FY2025   FY2026 Outlook EN - SS" src="https://github.com/user-attachments/assets/cf00215b-2791-4469-b121-53f1fda365e3" />
+
 
 # GoTo Gojek Tokopedia - FP&A Analysis FY2025
 
