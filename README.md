@@ -5,7 +5,7 @@
 
 **Independent Financial Planning & Analysis Study**  
 PT GoTo Gojek Tokopedia Tbk (GOTO.JK) | FY2023–2025 Actuals + FY2026 Forecast  
-Prepared by: Nur Syahraini | June 2026
+Prepared by: Syahraini | June 2026
 
 ---
 
@@ -25,7 +25,7 @@ consolidated financial statements (Laporan Keuangan Konsolidasian
 
 - Revenue grew **+15.3% YoY** to Rp18.3T while total costs grew only 
   **+3.1%**, reflecting strong operating leverage
-- Operating loss narrowed **83%** from Rp2.24T to Rp378M; GoTo is now 
+- Operating loss narrowed **83.0%** from Rp2.2T to Rp378M; GoTo is now 
   only **2.1% away from operational breakeven**
 - OCF turned **positive for the first time** at +Rp307M (vs -Rp622M FY2024)
 - FY2026 Base Case projects **first-ever net profit of +Rp951M**
@@ -36,7 +36,7 @@ consolidated financial statements (Laporan Keuangan Konsolidasian
 
 | Deliverable | Description | Link |
 |---|---|---|
-| FP&A Report (PDF) | 7-page report covering revenue, expense, cash flow analysis, FY2026 forecast, risks & limitations | [View PDF](Report/GoTo_Analysis_FY2025_&_FY2026_Outlook_EN.pdf) |
+| FP&A Report (PDF) | 5-page report covering revenue, expense, cash flow analysis, FY2026 forecast, risks & limitations | [View PDF](Report/GoTo_Analysis_FY2025_&_FY2026_Outlook_EN.pdf) |
 | Financial Model (Excel) | 7-tab model: IS, BS, CF, SEGMENT, KPI, ASSUMPTIONS, FLAGS | [Download Model](Model/GOTO_Financial_Analysis_Model_Final.xlsx) |
 | Executive Dashboard (Tableau) | Interactive dashboard — Revenue Growth Story, BEP, KPI Strip, FY2026 Scenario Outlook | [View on Tableau Public](https://public.tableau.com/views/GoToFY2025AnalysisEN/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
 
@@ -46,7 +46,7 @@ consolidated financial statements (Laporan Keuangan Konsolidasian
 
 **Excel Model - 8 tabs:**
 - `COVER` — Model index and color coding convention
-- `FLAGS` — 7 analytical findings with severity, status, and PREP insights
+- `FLAGS` — 7 analytical findings with severity, status, and insights
 - `ASSUMPTIONS` — Driver-based assumptions with Bear/Base/Bull rationale
 - `IS` — Income Statement FY2023–2025 actuals + FY2026 forecast
 - `BS` — Balance Sheet FY2023–2025 with variance analysis
@@ -68,7 +68,7 @@ consolidated financial statements (Laporan Keuangan Konsolidasian
 TikTok's entry as Tokopedia shareholder in FY2024 changed GoTo's 
 consolidation structure. Tokopedia moved from full consolidation to 
 equity method (PSAK 228), creating non-apple-to-apple comparability 
-for Service Fee and Advertising segments between FY2023–2024.
+for Revenue segments between FY2023–2024.
 
 **2. SBC Normalization**  
 Share-based compensation fell 57% (Rp1.37T → Rp593M). As a non-cash 
