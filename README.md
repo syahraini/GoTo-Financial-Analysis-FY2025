@@ -23,7 +23,7 @@ consolidated financial statements (Laporan Keuangan Konsolidasian
 ## Key Findings
 
 - Revenue grew **+15.3% YoY** to Rp18.3T while total costs grew only 
-  **+3.1%** — reflecting strong operating leverage
+  **+3.1%**, reflecting strong operating leverage
 - Operating loss narrowed **83%** from Rp2.24T to Rp378M; GoTo is now 
   only **2.1% away from operational breakeven**
 - OCF turned **positive for the first time** at +Rp307M (vs -Rp622M FY2024)
